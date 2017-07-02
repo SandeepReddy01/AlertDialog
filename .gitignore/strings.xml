@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="date_picker_title">Enter your D.O.B</string>
+    <string name="add_date">Enter your D.O.B(DD/MM/YYYY)</string>
+    <string name="dialog_header">Enter Text</string>
+    <string name="sampletext">Sample Text</string>
+</resources>
